@@ -15,7 +15,6 @@
 
    ```bash
    git clone https://github.com/IvanFro1ov/comments-to-image.git
-   cd comments-api
    ```
 
 2. **Настройте базу данных: (если она не создалась автоматически)**
